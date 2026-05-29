@@ -25,14 +25,21 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
-<img width="1200" height="1600" alt="dt" src="https://github.com/user-attachments/assets/dedaee81-00b4-493f-bcd4-d8ed52744b03" />
+<img width="450" height="674" alt="Screenshot 2026-05-29 084151" src="https://github.com/user-attachments/assets/eecbad01-714a-4c78-a814-a2181166cd85" />
 
 
-
-
-**Model graph:**
-**TABULATION:**
 **Calculation:**
+<img width="1600" height="1488" alt="fr" src="https://github.com/user-attachments/assets/1476237f-24a7-422a-91f2-401e313d026a" />
+
+model graph:
+
+<img width="1600" height="1219" alt="mg" src="https://github.com/user-attachments/assets/1cf84cc5-307e-4ffa-98f1-c7dd12321842" />
+
+
+**TABULATION:**
+<img width="1600" height="1200" alt="ta" src="https://github.com/user-attachments/assets/2ad880c9-e406-42f7-a48f-2d0876da22aa" />
+
+
 
 **PROCEDURE:**
 
@@ -47,9 +54,14 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 Output:
 
-<img width="1599" height="978" alt="sr" src="https://github.com/user-attachments/assets/929b45e9-92fe-4636-81e4-3e86030647ae" />
+series resonance
 
-<img width="1412" height="780" alt="pr" src="https://github.com/user-attachments/assets/62590c88-d62b-42ee-96f4-a68be89d5201" />
+<img width="1793" height="404" alt="Screenshot 2026-05-29 084715" src="https://github.com/user-attachments/assets/65e8b349-f76a-463d-bd94-dfb4a0b04c53" />
+
+parallel resonance
+
+<img width="1770" height="372" alt="Screenshot 2026-05-29 084752" src="https://github.com/user-attachments/assets/dbba73e1-e5dc-4dad-b7f3-e2ca014ecfe7" />
+
 
 
 **Mark split up:**
